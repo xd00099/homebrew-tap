@@ -1,6 +1,6 @@
 cask "drydock" do
-  version "0.4.0"
-  sha256 "362b15db820e8cb5e07a2d4064620fb0ad9c19865328dd5668d3d4c787b19193"
+  version "0.5.0"
+  sha256 "d0394119363b7571350e4ffa7406e2c9d7822f5db678001e9e499b08ecdfbff0"
 
   url "https://github.com/xd00099/drydock/releases/download/v#{version}/Drydock_#{version}_aarch64.dmg"
   name "Drydock"
